@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_NSUDO_EXE RCDATA "res\\nsudo.exe"
+IDR_KILL_BAT RCDATA "res\\kill.bat"

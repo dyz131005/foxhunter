@@ -1,0 +1,31 @@
+# 编译产物
+银狐木马专杀工具.exe
+src/resource.o
+
+# HTML 文件
+index.html
+
+# 提取的资源文件
+nsudo.exe
+kill.bat
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# IDE 文件
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# 构建目录
+build/
+dist/
